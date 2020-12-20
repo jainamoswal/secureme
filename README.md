@@ -1,7 +1,7 @@
 # This is a very basic library that encrypts and decrypts the text. No matter whatever the text is !!!
 
 
-<palign="center">
+<p align="center">
   <img width="200" src="https://webdesigngalore.com/wp-content/uploads/2013/11/lock-icon-ssl-certificates-geo-trust-comodo-thawte-symantec.gif" alt="Encrypt The Text">
 </p>
 
