@@ -54,7 +54,7 @@ This can also be used for decrypting the passwords which are saved on the [Googl
 #### For more information you can contact me on Social Media via [Telegram](https://t.me/jainamoswal) or [E-Mail](mailto:jainamoswal4@gmail.com)
 Contributers |   1   | 2 | 3 | 4 
 --- | --- | --- | --- |--- 
-Names | [Jainam](https://www.github.com/jainamoswal) | [Shivam](https://www.github.com/shivamsn97) | Ayesha | This is reserved only for you. | 
+Names | [Jainam](https://www.github.com/jainamoswal) | [Shivam](https://www.github.com/shivamsn97) | [King Phyte](https://www.github.com/king-phyte) | Ayesha | 
 
 ---------------------------------------------------
 
