@@ -54,7 +54,7 @@ This can also be used for decrypting the passwords which are saved on the [Googl
 #### For more information you can contact me on Social Media via [Telegram](https://t.me/jainamoswal) or [E-Mail](mailto:jainamoswal4@gmail.com)
 Contributers |   1   | 2 | 3 | 4 | 5
 --- | --- | --- | --- |--- |---
-Names | [Jainam](https://www.github.com/jainamoswal) | [Shivam](https://www.github.com/shivamsn97) | [King Phyte](https://www.github.com/king-phyte) | Ayesha | [This is only reserved for you](https://github.com/jainamoswal/0.0.5/blob/main/README.md#this-is-a-very-basic-library-that-encrypts-and-decrypts-the-text-no-matter-whatever-the-text-is-)
+Names | [Jainam](https://www.github.com/jainamoswal) | [Shivam](https://www.github.com/shivamsn97) | [King Phyte](https://www.github.com/king-phyte) | Ayesha | [This is only reserved for you](https://github.com/jainamoswal/secureme)
 
 ---------------------------------------------------
 
