@@ -52,9 +52,9 @@ You can also import a single function from the library by `from secureme import 
 This can also be used for decrypting the passwords which are saved on the [Google Sheets](https://docs.google.com/spreadsheets/) or [Excel Sheet](https://www.microsoft.com/en-in/microsoft-365/excel). The decrypted Passwords can be retrieved by a Telegram Bot or any other service you prefer.
 
 #### For more information you can contact me on Social Media via [Telegram](https://t.me/jainamoswal) or [E-Mail](mailto:jainamoswal4@gmail.com)
-Contributers |   1   | 2 | 3 | 4 
---- | --- | --- | --- |--- 
-Names | [Jainam](https://www.github.com/jainamoswal) | [Shivam](https://www.github.com/shivamsn97) | [King Phyte](https://www.github.com/king-phyte) | Ayesha | 
+Contributers |   1   | 2 | 3 | 4 | 5
+--- | --- | --- | --- |--- |---
+Names | [Jainam](https://www.github.com/jainamoswal) | [Shivam](https://www.github.com/shivamsn97) | [King Phyte](https://www.github.com/king-phyte) | Ayesha | [This is only reserved for you](https://github.com/jainamoswal/0.0.5/blob/main/README.md#this-is-a-very-basic-library-that-encrypts-and-decrypts-the-text-no-matter-whatever-the-text-is-)
 
 ---------------------------------------------------
 
